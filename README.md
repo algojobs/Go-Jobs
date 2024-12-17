@@ -1,13 +1,38 @@
 # Go Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 12/13/2024
+This data is updated weekly, with filled postings removed. Last updated: 12/17/2024
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Go Jobs](https://algojobs.io/jobs/go)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 12/17/2024 | [Senior Software Engineer, Membership](https://algojobs.io/jobs/2600759) | [Crunchyroll, LLC](https://algojobs.io/company/crunchyroll/) | $167K - $209K | San Francisco, CA, United States |
+| 12/16/2024 | [Senior Software Engineer, IAM (Customer Identity)](https://algojobs.io/jobs/2600680) | [Okta](https://algojobs.io/company/okta/) | $114K - $172K | Toronto, Canada |
+| 12/16/2024 | [Senior Software Engineer - Golang](https://algojobs.io/jobs/2599864) | [Airspace ](https://algojobs.io/company/airspace/) | $140K - $180K | Carlsbad, CA |
+| 12/16/2024 | [Software Engineer](https://algojobs.io/jobs/2600475) | [Planet](https://algojobs.io/company/planetlabs/) | N/A | Berlin, Germany |
+| 12/16/2024 | [Software Engineer (Golang/React)](https://algojobs.io/jobs/2609003) | [Applied Systems, Inc.](https://algojobs.io/company/appliedsystems/) | N/A | US |
+| 12/16/2024 | [Senior Software Engineer (Golang/React)](https://algojobs.io/jobs/2609000) | [Applied Systems, Inc.](https://algojobs.io/company/appliedsystems/) | N/A | US |
+| 12/16/2024 | [Senior Software Engineer, Data Ingestion](https://algojobs.io/jobs/2601925) | [Astronomer](https://algojobs.io/company/astronomer/) | $190K - $220K | Vancouver |
+| 12/16/2024 | [Senior Software Engineer, Data Ingestion](https://algojobs.io/jobs/2601928) | [Astronomer](https://algojobs.io/company/astronomer/) | $180K - $210K | Remote (United States) |
+| 12/16/2024 | [Comcast Software Engineer Intern](https://algojobs.io/jobs/2604177) | [Comcast](https://algojobs.io/company/comcast/) | N/A | PA - Philadelphia, 1800 Arch St, United States of America |
+| 12/16/2024 | [Junior Full Stack Software Engineer](https://algojobs.io/jobs/2602704) | [Radiance](https://algojobs.io/company/radiancetech/) | N/A | Beavercreek, OH, United States of America |
+| 12/13/2024 | [Full Stack Software Engineer](https://algojobs.io/jobs/2586883) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | N/A | Remote - Brazil |
+| 12/13/2024 | [Senior Full Stack Software Engineer](https://algojobs.io/jobs/2586886) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | N/A | Remote - Brazil |
+| 12/13/2024 | [Senior Software Engineer, AI](https://algojobs.io/jobs/2587305) | [Robinhood](https://algojobs.io/company/robinhood/) | $187K - $220K | Menlo Park, CA |
+| 12/13/2024 | [Software Engineer](https://algojobs.io/jobs/2587600) | [Samsara](https://algojobs.io/company/samsara/) | N/A | Remote - Poland |
+| 12/13/2024 | [Junior Software Engineer (Backend) - Payments Tribe](https://algojobs.io/jobs/2587011) | [SumUp](https://algojobs.io/company/sumup/) | N/A | Sofia, Bulgaria |
+| 12/13/2024 | [Software Engineer - Orchestration](https://algojobs.io/jobs/2586306) | [Neo4j](https://algojobs.io/company/neo4j/) | N/A | London |
+| 12/13/2024 | [Software Engineer - Orchestration](https://algojobs.io/jobs/2586311) | [Neo4j](https://algojobs.io/company/neo4j/) | N/A | Malmö |
+| 12/13/2024 | [Software Engineer - Enablement](https://algojobs.io/jobs/2586307) | [Neo4j](https://algojobs.io/company/neo4j/) | N/A | Malmö |
+| 12/13/2024 | [Software Engineer (K8s & Go) - GraphQL](https://algojobs.io/jobs/2586312) | [Neo4j](https://algojobs.io/company/neo4j/) | N/A | Malmö |
+| 12/13/2024 | [Lead Software Development Engineer](https://algojobs.io/jobs/2586290) | [Razorpay Software Private Limited](https://algojobs.io/company/razorpaysoftwareprivatelimited/) | N/A | Bangalore |
+| 12/13/2024 | [Software Engineer II - FullStack](https://algojobs.io/jobs/2586714) | [Abnormal Security](https://algojobs.io/company/abnormalsecurity/) | N/A | Hybrid - Bangalore, India |
+| 12/13/2024 | [Software Engineer, Data Platform](https://algojobs.io/jobs/2593919) | [WEX](https://algojobs.io/company/wexinc/) | $92K - $122K | Portland, ME / Bay Area, CA / Chicago, IL |
+| 12/13/2024 | [Software Engineer – API SDK](https://algojobs.io/jobs/2588260) | [OpenAI](https://algojobs.io/company/openai/) | N/A | San Francisco |
+| 12/13/2024 | [Senior Software Engineer- DevOps](https://algojobs.io/jobs/2594917) | [PayPal](https://algojobs.io/company/paypal/) | $111K - $175K | Chicago, Illinois, United States of America / Austin, Texas, United States of America |
 | 12/13/2024 | [Sr Software Engineer - Golang & SQL](https://algojobs.io/jobs/2579935) | [Gartner](https://algojobs.io/company/gartner/) | N/A | Gurgaon, India |
-| 12/12/2024 | [Software Engineer](https://algojobs.io/jobs/2572939) | [Couchbase, Inc.](https://algojobs.io/company/couchbaseinc/) | N/A | Bangalore, India |
+| 12/13/2024 | [Staff Platform Software Engineer - India](https://algojobs.io/jobs/2585060) | [JumpCloud](https://algojobs.io/company/jumpcloud/) | N/A | Bangalore - India (Remote) |
+| 12/13/2024 | [Middle Golang Software Engineer](https://algojobs.io/jobs/2585120) | [IDT](https://algojobs.io/company/idt/) | N/A | Astana / Europe / Chișinău / ... (Remote) |
 | 12/12/2024 | [Software Engineer, IOT](https://algojobs.io/jobs/2574305) | [Motive](https://algojobs.io/company/gomotive/) | N/A | India - Remote |
 | 12/12/2024 | [Lead Software Development Engineer](https://algojobs.io/jobs/2573131) | [Razorpay Software Private Limited](https://algojobs.io/company/razorpaysoftwareprivatelimited/) | N/A | Bangalore |
 | 12/12/2024 | [Software Engineer](https://algojobs.io/jobs/2579607) | [5413 Avago Technologies International Sales Pte. Limited](https://algojobs.io/company/broadcom/) | N/A | BGR-Sofia-Garitage Park - Bldg 2, Bulgaria |
@@ -20,26 +45,22 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 12/12/2024 | [Staff Software Engineer, Trust Engineering](https://algojobs.io/jobs/2575918) | [The Browser Company](https://algojobs.io/company/the-browser-company/) | $240K - $300K | Remote - North America |
 | 12/11/2024 | [Senior Software Engineer ll, Core Platform](https://algojobs.io/jobs/2561636) | [Moveworks](https://algojobs.io/company/moveworks/) | $200K - $249K | Mountain View, CA |
 | 12/11/2024 | [Associate Software Engineer, Sales Tech \| Home](https://algojobs.io/jobs/2562779) | [Red Ventures](https://algojobs.io/company/redventures/) | N/A | Charlotte, NC |
-| 12/11/2024 | [Senior Software Engineer, Membership](https://algojobs.io/jobs/2562557) | [Crunchyroll, LLC](https://algojobs.io/company/crunchyroll/) | $167K - $209K | San Francisco, CA, United States |
 | 12/11/2024 | [Junior Software Engineer (LATAM)](https://algojobs.io/jobs/2562407) | [Sezzle](https://algojobs.io/company/sezzle/) | $1K - $3K | Latin America |
 | 12/11/2024 | [Junior Software Engineer (Colombia)](https://algojobs.io/jobs/2562406) | [Sezzle](https://algojobs.io/company/sezzle/) | $1K - $3K | Colombia, Remote |
 | 12/11/2024 | [Junior Software Engineer (Chile)](https://algojobs.io/jobs/2562403) | [Sezzle](https://algojobs.io/company/sezzle/) | $1K - $3K | Chile, Remote |
 | 12/11/2024 | [Junior Software Engineer (Argentina)](https://algojobs.io/jobs/2562404) | [Sezzle](https://algojobs.io/company/sezzle/) | $1K - $3K | Argentina, Remote |
 | 12/11/2024 | [Senior Software Engineer, Full-Stack](https://algojobs.io/jobs/2561116) | [Kunai](https://algojobs.io/company/kunai/) | N/A | Remote - Mexico |
-| 12/11/2024 | [Senior Software Engineer - Cloud SRE](https://algojobs.io/jobs/2562529) | [Myntra](https://algojobs.io/company/myntra/) | N/A | Bangalore |
-| 12/11/2024 | [Devops - Software Engineer](https://algojobs.io/jobs/2562528) | [Myntra](https://algojobs.io/company/myntra/) | N/A | Bangalore |
-| 12/11/2024 | [Principal Software Engineer I](https://algojobs.io/jobs/2562358) | [Careem](https://algojobs.io/company/careem/) | N/A | Dubai, United Arab Emirates |
 | 12/11/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2569079) | [Data Direct Networks](https://algojobs.io/company/ddn/) | N/A | Remote, IL |
-| 12/11/2024 | [Software Engineer - Golang](https://algojobs.io/jobs/2554331) | [Gartner](https://algojobs.io/company/gartner/) | N/A | Gurgaon, India |
 | 12/11/2024 | [SOFTWARE ENGINEER III, INFORMATION SECURITY](https://algojobs.io/jobs/2567043) | [Walmart](https://algojobs.io/company/walmart/) | N/A | IN KA BANGALORE Home Office Building 11, India |
 | 12/11/2024 | [Software Engineering SMTS](https://algojobs.io/jobs/2565562) | [Salesforce](https://algojobs.io/company/salesforce/) | $151K - $208K | California - San Francisco / Washington - Bellevue / Georgia - Atlanta |
 | 12/11/2024 | [Software Engineering AMTS](https://algojobs.io/jobs/2565553) | [Salesforce](https://algojobs.io/company/salesforce/) | $155K - $156K | California - San Francisco, United States of America |
 | 12/11/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2564103) | [Flexera Software LLC](https://algojobs.io/company/flexerasoftware/) | N/A | Bangalore, India |
 | 12/11/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2564104) | [Flexera Software LLC](https://algojobs.io/company/flexerasoftware/) | N/A | Bangalore, India |
 | 12/11/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2551648) | [Commonwealth Bank of Australia](https://algojobs.io/company/cba/) | N/A | Sydney CBD Area, Australia |
-| 12/11/2024 | [Senior Software Engineer, Infrastructure](https://algojobs.io/jobs/2566964) | [NVIDIA](https://algojobs.io/company/nvidia/) | N/A | US, CA, Santa Clara, United States of America |
+| 12/11/2024 | [Staff Security Software Engineer](https://algojobs.io/jobs/2563251) | [The Browser Company](https://algojobs.io/company/the-browser-company/) | $240K - $300K | Remote - North America |
 | 12/10/2024 | [Senior Software Engineer - SaaS Data Protection](https://algojobs.io/jobs/2549565) | [Rubrik Job Board](https://algojobs.io/company/rubrik/) | $176K - $265K | Palo Alto, CA |
 | 12/10/2024 | [Software Engineer (Golang)](https://algojobs.io/jobs/2548372) | [SumUp](https://algojobs.io/company/sumup/) | N/A | Berlin, Germany |
+| 12/10/2024 | [Senior Backend Software Engineer (Go) - Cloud & Network/IoT Security](https://algojobs.io/jobs/2548235) | [SentinelOne](https://algojobs.io/company/sentinellabs/) | N/A | Israel |
 | 12/10/2024 | [Software Development Engineer - Money Tracking](https://algojobs.io/jobs/2548597) | [GoCardless](https://algojobs.io/company/gocardless/) | N/A | London, UK |
 | 12/10/2024 | [Senior Software Engineer - UI Services and Infrastructure](https://algojobs.io/jobs/2548248) | [SentinelOne](https://algojobs.io/company/sentinellabs/) | N/A | Slovakia |
 | 12/10/2024 | [Senior Software Engineer - UI Services and Infrastructure](https://algojobs.io/jobs/2548246) | [SentinelOne](https://algojobs.io/company/sentinellabs/) | N/A | Brno, South Moravian, Czech Republic |
@@ -48,8 +69,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 12/10/2024 | [Staff Software Engineer - Developer Experience](https://algojobs.io/jobs/2548081) | [BILL](https://algojobs.io/company/billcom/) | $175K - $210K | San Jose, California, United States |
 | 12/10/2024 | [Principal Software Engineer](https://algojobs.io/jobs/2556878) | [Data Direct Networks](https://algojobs.io/company/ddn/) | N/A | Pune, MH, IN |
 | 12/10/2024 | [Software Engineer](https://algojobs.io/jobs/2553599) | [Autodesk](https://algojobs.io/company/autodesk/) | N/A | Singapore, SGP |
-| 12/10/2024 | [Software Engineer - Java](https://algojobs.io/jobs/2537613) | [Commonwealth Bank of Australia](https://algojobs.io/company/cba/) | N/A | Sydney CBD Area / VIC CBD Melbourne Area |
-| 12/10/2024 | [Software Development Engineer - Kubernetes Service Mesh](https://algojobs.io/jobs/2553065) | [Workday (NZ) Unlimited](https://algojobs.io/company/workday/) | $124K - $186K | USA, CO, Boulder, United States of America |
 | 12/10/2024 | [Senior Software Engineer - Backend (Contractor)](https://algojobs.io/jobs/2549984) | [Cylinder Health](https://algojobs.io/company/cylinderhealth/) | N/A | Remote |
 | 12/10/2024 | [Staff Software Engineer](https://algojobs.io/jobs/2537611) | [Commonwealth Bank of Australia](https://algojobs.io/company/cba/) | N/A | Sydney CBD Area, Australia |
 | 12/10/2024 | [Principal Software Engineer](https://algojobs.io/jobs/2537615) | [Commonwealth Bank of Australia](https://algojobs.io/company/cba/) | N/A | Sydney CBD Area, Australia |
@@ -69,16 +88,18 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 12/09/2024 | [Software Engineer II ( Backend, Promo )](https://algojobs.io/jobs/2533310) | [tiket.com](https://algojobs.io/company/tiket/) | N/A | Jakarta (Hybrid) |
 | 12/09/2024 | [Software Engineer I](https://algojobs.io/jobs/2533615) | [Artera](https://algojobs.io/company/artera-2/) | N/A | Budapest (Hybrid) |
 | 12/09/2024 | [Software Engineer III - Distributed Cloud](https://algojobs.io/jobs/2537877) | [F5](https://algojobs.io/company/ffive/) | $128K - $192K | San Jose / Boulder (Louisville) / Seattle |
-| 12/09/2024 | [Software Engineer, Data Platform](https://algojobs.io/jobs/2551838) | [WEX](https://algojobs.io/company/wexinc/) | $66K - $87K | Chicago, IL / Portland, ME / Bay Area, CA |
 | 12/09/2024 | [Software Engineer (Hybrid)](https://algojobs.io/jobs/2538515) | [Motorola Solutions](https://algojobs.io/company/motorolasolutions/) | N/A | Schaumburg, IL / Allen, TX (TX139) / Utah, US Offsite (Hybrid) |
+| 12/09/2024 | [Software Engineering MTS/SMTS/LMTS(Backend) and Full Stack](https://algojobs.io/jobs/2538934) | [Salesforce](https://algojobs.io/company/salesforce/) | N/A | India - Hyderabad |
 | 12/09/2024 | [Staff Software Engineer (Backend)](https://algojobs.io/jobs/2533442) | [Outreach](https://algojobs.io/company/outreach/) | N/A | Hyderabad (Remote) |
 | 12/09/2024 | [Sr Software Engineer](https://algojobs.io/jobs/2537873) | [F5](https://algojobs.io/company/ffive/) | $166K - $249K | San Jose, United States of America |
+| 12/09/2024 | [Sr Principal Software Engineer](https://algojobs.io/jobs/2537876) | [F5](https://algojobs.io/company/ffive/) | $207K - $310K | San Jose, United States of America |
 | 12/07/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2520240) | [Ripple ](https://algojobs.io/company/ripple/) | $178K - $178K | San Francisco, CA, United States |
 | 12/06/2024 | [Senior Software Engineer - Containers and Platform](https://algojobs.io/jobs/2521294) | [Job Board](https://algojobs.io/company/corelight/) | $154K - $183K | North America |
 | 12/06/2024 | [Senior Software Engineer (Platform)](https://algojobs.io/jobs/2521230) | [Chainguard](https://algojobs.io/company/chainguard/) | $162K - $198K | US (Remote) |
 | 12/06/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2521037) | [Checkr](https://algojobs.io/company/checkr/) | $148K - $174K | Denver, Colorado, United States |
 | 12/06/2024 | [Lead Software Engineer](https://algojobs.io/jobs/2528435) | [Data Direct Networks](https://algojobs.io/company/ddn/) | N/A | Pune, MH, IN |
 | 12/06/2024 | [Lead Software Engineer](https://algojobs.io/jobs/2528436) | [Data Direct Networks](https://algojobs.io/company/ddn/) | N/A | Pune, MH, IN |
+| 12/06/2024 | [Software Engineer, Front End - India](https://algojobs.io/jobs/2598420) | [JumpCloud](https://algojobs.io/company/jumpcloud/) | N/A | Hyderabad, India - Remote |
 | 12/06/2024 | [Software Engineer 2, Data Lake Engineering JD](https://algojobs.io/jobs/2523626) | [WEX](https://algojobs.io/company/wexinc/) | N/A | Brazil - Remote |
 | 12/06/2024 | [Software Engineer 2, Data Lake Engineering JD](https://algojobs.io/jobs/2523627) | [WEX](https://algojobs.io/company/wexinc/) | N/A | Brazil - Remote |
 | 12/06/2024 | [Software Engineer, Data Lake Engineering JD](https://algojobs.io/jobs/2523628) | [WEX](https://algojobs.io/company/wexinc/) | N/A | Brazil - Remote |
@@ -100,6 +121,7 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 12/05/2024 | [Senior Software Engineer Kubernetes (Portugal)](https://algojobs.io/jobs/2505566) | [DoiT](https://algojobs.io/company/doitintl/) | N/A | Remote EMEA |
 | 12/05/2024 | [Senior Software Engineer Kubernetes (Bulgaria)](https://algojobs.io/jobs/2505568) | [DoiT](https://algojobs.io/company/doitintl/) | N/A | Remote EMEA |
 | 12/05/2024 | [Senior Software Engineer Kubernetes (Slovakia)](https://algojobs.io/jobs/2505567) | [DoiT](https://algojobs.io/company/doitintl/) | N/A | Remote EMEA |
+| 12/05/2024 | [Software Engineer, Directory - India](https://algojobs.io/jobs/2598423) | [JumpCloud](https://algojobs.io/company/jumpcloud/) | N/A | Hyderabad, India - Remote |
 | 12/05/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2509169) | [Loft Labs, Inc.](https://algojobs.io/company/loft-labs/) | N/A | USA - Seattle |
 | 12/04/2024 | [SR Software Engineer](https://algojobs.io/jobs/2505436) | [Ã­lia](https://algojobs.io/company/ilia/) | N/A | Remote (anywhere on the globe) |
 | 12/04/2024 | [Senior Software Engineer, Hyperscale Line of Business](https://algojobs.io/jobs/2493603) | [Pure Storage](https://algojobs.io/company/purestorage/) | $207K - $342K | Santa Clara, CA |
@@ -109,6 +131,7 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 12/04/2024 | [Associate Software Engineer](https://algojobs.io/jobs/2492320) | [Handshake](https://algojobs.io/company/joinhandshake/) | N/A | Berlin, Germany |
 | 12/04/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2493395) | [DigiCert](https://algojobs.io/company/digicert/) | N/A | Pune |
 | 12/04/2024 | [Software Engineer I, Backend (Payment & Growth)](https://algojobs.io/jobs/2490950) | [tiket.com](https://algojobs.io/company/tiket/) | N/A | Jakarta (Hybrid) |
+| 12/04/2024 | [Software Engineer - Türkiye](https://algojobs.io/jobs/2533364) | [JumpCloud](https://algojobs.io/company/jumpcloud/) | N/A | Ankara, Türkiye - Remote |
 | 12/04/2024 | [Software Engineer, ML Infrastructure, 7+ Years of Experience](https://algojobs.io/jobs/2494855) | [Snap](https://algojobs.io/company/snapchat/) | $202K - $303K | Bellevue - 110 110th Ave NE / Palo Alto - 395 Page Mill Rd / New York - 229 W 43rd St / ... |
 | 12/04/2024 | [Software Engineer, ML Infrastructure, 7+ Years of Experience](https://algojobs.io/jobs/2497002) | [Snap](https://algojobs.io/company/snapchat/) | $202K - $303K | Bellevue - 110 110th Ave NE / Palo Alto - 395 Page Mill Rd / New York - 229 W 43rd St / ... |
 | 12/04/2024 | [Software Engineering MTS](https://algojobs.io/jobs/2496829) | [Salesforce](https://algojobs.io/company/salesforce/) | $155K - $188K | California - San Francisco / California - Remote |
@@ -116,12 +139,12 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 12/04/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2496639) | [GEICO](https://algojobs.io/company/geico/) | $105K - $215K | San Francisco, CA / Seattle, WA |
 | 12/04/2024 | [Senior Software Engineer - Windows EPM](https://algojobs.io/jobs/2497726) | [SailPoint](https://algojobs.io/company/sailpoint/) | N/A | Remote (United Kingdom) |
 | 12/04/2024 | [Senior Software Engineer I](https://algojobs.io/jobs/2498563) | [RELX](https://algojobs.io/company/relx/) | N/A | Alpharetta, GA / Georgia / Florida / ... |
+| 12/04/2024 | [Principal Full Stack Software Engineer](https://algojobs.io/jobs/2509871) | [Fidelity](https://algojobs.io/company/fmr/) | N/A | Salt Lake City, UT / Westlake, TX |
 | 12/03/2024 | [Software Engineer II, Core Platform](https://algojobs.io/jobs/2479026) | [Flex](https://algojobs.io/company/flex/) | $179K - $194K | U.S. (Remote) |
 | 12/03/2024 | [Software Engineer - Backend (mid-late career)](https://algojobs.io/jobs/2494402) | [northwoodspace](https://algojobs.io/company/northwoodspace/) | N/A | El Segundo |
 | 12/03/2024 | [Software Engineer - Cloud Infrastructure (mid-late career)](https://algojobs.io/jobs/2494403) | [northwoodspace](https://algojobs.io/company/northwoodspace/) | N/A | El Segundo |
 | 12/03/2024 | [Senior Software Engineer – Golang](https://algojobs.io/jobs/2490833) | [CloudWalk](https://algojobs.io/company/cloudwalk/) | N/A | São Paulo (Remote) |
 | 12/03/2024 | [Backend Software Engineer Intern - Seller Experience](https://algojobs.io/jobs/2490885) | [Back Market](https://algojobs.io/company/backmarket/) | N/A | Barcelona |
-| 12/03/2024 | [Senior Software Engineer-2](https://algojobs.io/jobs/2482594) | [India: Mastercard Technology Private Limited](https://algojobs.io/company/mastercard/) | N/A | Prague, Czech Republic (Pernerova 697/35), Czechia |
 | 12/03/2024 | [Staff Software Engineer](https://algojobs.io/jobs/2482663) | [101 Proofpoint, Inc.](https://algojobs.io/company/proofpoint/) | N/A | Cordoba, Argentina |
 | 12/02/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2477202) | [Prove](https://algojobs.io/company/prove/) | $140K - $170K | Chicago, IL or Denver, CO |
 | 12/02/2024 | [Senior Staff Software Engineer - Data Platforms](https://algojobs.io/jobs/2462146) | [Aurora Innovation](https://algojobs.io/company/aurorainnovation/) | $191K - $306K | Pittsburgh, Pennsylvania |
@@ -133,6 +156,7 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 12/02/2024 | [Senior Software Engineer - Bitcoin](https://algojobs.io/jobs/2464498) | [Babylon Labs](https://algojobs.io/company/babylonlabs/) | N/A | Remote |
 | 12/02/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2467571) | [202 Proofpoint Argentina SRL](https://algojobs.io/company/proofpoint/) | N/A | Cordoba, Argentina |
 | 12/02/2024 | [Principal Rust Software Engineer (AI)](https://algojobs.io/jobs/2461733) | [Spice AI](https://algojobs.io/company/spiceai/) | $205K - $250K | Seattle, Washington (Remote) / Bay Area, California |
+| 11/29/2024 | [Senior or Staff Software Engineer (Core Systems)](https://algojobs.io/jobs/2302549) | [SmartNews](https://algojobs.io/company/smartnews/) | N/A | Shibuya, Tokyo, Japan (Hybrid) |
 | 11/28/2024 | [Software Engineer 3](https://algojobs.io/jobs/2303999) | [MongoDB](https://algojobs.io/company/mongodb/) | N/A | Netherlands |
 | 11/28/2024 | [Software Engineer 3](https://algojobs.io/jobs/2304002) | [MongoDB](https://algojobs.io/company/mongodb/) | N/A | Germany |
 | 11/28/2024 | [Software Engineer 3](https://algojobs.io/jobs/2304003) | [MongoDB](https://algojobs.io/company/mongodb/) | N/A | Poland |
@@ -144,6 +168,8 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/28/2024 | [Software Engineer](https://algojobs.io/jobs/2296400) | [Good Job Games](https://algojobs.io/company/goodjobgames/) | N/A | Sarıyer, Istanbul |
 | 11/28/2024 | [Junior Software Engineer](https://algojobs.io/jobs/2296398) | [Good Job Games](https://algojobs.io/company/goodjobgames/) | N/A | Sarıyer, Istanbul |
 | 11/28/2024 | [Senior Software Engineer, Backend- Platform](https://algojobs.io/jobs/2297322) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | N/A | Remote - India |
+| 11/28/2024 | [Senior / Staff Software Engineer - DevSecOps Security Expert (Operations)](https://algojobs.io/jobs/2298234) | [OKX](https://algojobs.io/company/okx/) | N/A | Singapore, Singapore |
+| 11/28/2024 | [Senior / Staff Software Engineer - DevSecOps Security Expert (Developer)](https://algojobs.io/jobs/2298233) | [OKX](https://algojobs.io/company/okx/) | N/A | Singapore, Singapore |
 | 11/28/2024 | [Software Engineer Specialist - DevX](https://algojobs.io/jobs/2303686) | [iFood](https://algojobs.io/company/ifoodcarreiras/) | N/A | Brasil |
 | 11/28/2024 | [Staff Software Engineer](https://algojobs.io/jobs/2303702) | [iFood](https://algojobs.io/company/ifoodcarreiras/) | N/A | Brasil |
 | 11/28/2024 | [Staff Software Engineer (Vaga afirmativa para Mulheres)](https://algojobs.io/jobs/2303704) | [iFood](https://algojobs.io/company/ifoodcarreiras/) | N/A | Brasil |
@@ -153,8 +179,10 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/28/2024 | [Senior Software Engineer, Product Security](https://algojobs.io/jobs/2296849) | [Brex](https://algojobs.io/company/brex/) | $192K - $240K | New York, New York, United States |
 | 11/28/2024 | [Senior Software Engineer, Product Security](https://algojobs.io/jobs/2296844) | [Brex](https://algojobs.io/company/brex/) | $192K - $240K | San Francisco, California, United States |
 | 11/28/2024 | [Senior Software Engineer - Backend](https://algojobs.io/jobs/2299143) | [Venti Technologies](https://algojobs.io/company/goventi/) | N/A | Singapore |
+| 11/28/2024 | [Generative AI Senior Software Engineer (Golang, Javascript, Kubernetes)](https://algojobs.io/jobs/2301312) | [Citi](https://algojobs.io/company/citi/) | N/A | Pune Maharashtra India |
 | 11/27/2024 | [Senior Software Engineer - Backend (Access Review)](https://algojobs.io/jobs/2304303) | [Veza Technologies, Inc. ](https://algojobs.io/company/veza/) | N/A | Remote, USA |
 | 11/27/2024 | [Senior Software Engineer - Backend (Access Review)](https://algojobs.io/jobs/2304304) | [Veza Technologies, Inc. ](https://algojobs.io/company/veza/) | N/A | Remote, Slovenia |
+| 11/27/2024 | [Senior Staff Software Engineer, Backend](https://algojobs.io/jobs/2298108) | [Scout Motors](https://algojobs.io/company/scoutmotors/) | $220K - $250K | Fremont, California; Remote, United States |
 | 11/27/2024 | [Senior Software Engineer: Integrated Banking Experience](https://algojobs.io/jobs/2289986) | [Entersekt](https://algojobs.io/company/entersekt/) | N/A | Fully Remote, South Africa |
 | 11/27/2024 | [Senior Software Engineer: Signal Processing](https://algojobs.io/jobs/2289985) | [Entersekt](https://algojobs.io/company/entersekt/) | N/A | South Africa (Fully Remote) |
 | 11/27/2024 | [Senior Software Engineer, IAM Embedded Login](https://algojobs.io/jobs/2290505) | [Okta](https://algojobs.io/company/okta/) | N/A | Mexico City, Mexico |
@@ -165,8 +193,8 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/27/2024 | [Software Engineer (Full-Stack)](https://algojobs.io/jobs/2299211) | [Rocket Science Group](https://algojobs.io/company/rocketsciencegg/) | N/A | Cardiff, Wales, UK |
 | 11/27/2024 | [Software Development Engineer](https://algojobs.io/jobs/2293726) | [Autodesk](https://algojobs.io/company/autodesk/) | N/A | Singapore, SGP |
 | 11/27/2024 | [Staff Software Engineer - India](https://algojobs.io/jobs/2476457) | [JumpCloud](https://algojobs.io/company/jumpcloud/) | N/A | Mumbai, India - Remote / Bangalore, India - Remote / Delhi, India - Remote / ... |
+| 11/27/2024 | [Senior Software Engineer, Frontend Developer - Türkiye](https://algojobs.io/jobs/2476453) | [JumpCloud](https://algojobs.io/company/jumpcloud/) | N/A | Ankara, Türkiye - Remote |
 | 11/27/2024 | [Senior Software Engineer - India](https://algojobs.io/jobs/2461528) | [JumpCloud](https://algojobs.io/company/jumpcloud/) | N/A | Delhi, India - Remote / Pune, India - Remote / Bangalore, India - Remote / ... |
-| 11/27/2024 | [Cleared Software Engineer, Data Collection Orchestration](https://algojobs.io/jobs/2295297) | [CCRi](https://algojobs.io/company/ccri/) | $120K - $140K | Chantilly, Virginia, United States |
 | 11/27/2024 | [Principal Software Engineer (Remote)](https://algojobs.io/jobs/2288893) | [Shippo](https://algojobs.io/company/shippo/) | $175K - $238K | United States (Remote) |
 | 11/27/2024 | [Senior Software Engineer, Labels (Remote)](https://algojobs.io/jobs/2296119) | [Shippo](https://algojobs.io/company/shippo/) | N/A | Brazil (Remote) |
 | 11/26/2024 | [Staff Software Engineer, Security](https://algojobs.io/jobs/2290963) | [Airbnb](https://algojobs.io/company/airbnb/) | $204K - $259K | USA (Remote) |
@@ -176,13 +204,12 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/26/2024 | [Senior Software Engineer (Engine)](https://algojobs.io/jobs/2289484) | [Workato](https://algojobs.io/company/workato/) | N/A | Warsaw, Poland |
 | 11/26/2024 | [Software Engineer (Golang) - Payments Platform](https://algojobs.io/jobs/2290095) | [SumUp](https://algojobs.io/company/sumup/) | N/A | Sofia, Bulgaria |
 | 11/26/2024 | [Senior Software Engineer (Golang) - Payments Platform](https://algojobs.io/jobs/2290092) | [SumUp](https://algojobs.io/company/sumup/) | N/A | Sofia, Bulgaria |
+| 11/26/2024 | [Principal Privacy Software Engineer](https://algojobs.io/jobs/2281549) | [Roblox](https://algojobs.io/company/roblox/) | $351K - $425K | San Mateo, CA, United States |
 | 11/26/2024 | [Java Software Engineer](https://algojobs.io/jobs/2281160) | [Vonage](https://algojobs.io/company/vonage/) | N/A | Wroclaw, Poland |
-| 11/26/2024 | [Software Engineer - 2](https://algojobs.io/jobs/2279884) | [Property Finder](https://algojobs.io/company/propertyfinder/) | N/A | Dubai, United Arab Emirates |
 | 11/26/2024 | [Senior Software Engineer (Security Implementation)](https://algojobs.io/jobs/2281072) | [FalconX](https://algojobs.io/company/falconx/) | N/A | Bangalore, Karnataka, India |
 | 11/26/2024 | [Senior Software Engineer - Satoshi](https://algojobs.io/jobs/2281073) | [FalconX](https://algojobs.io/company/falconx/) | N/A | Bangalore, Karnataka, India |
 | 11/26/2024 | [Staff Software Engineer - Networking](https://algojobs.io/jobs/2280324) | [Aviatrix](https://algojobs.io/company/aviatrix/) | $175K - $195K | Santa Clara, CA |
 | 11/26/2024 | [Staff Software Engineer (Security Platform)](https://algojobs.io/jobs/2281816) | [Coupang](https://algojobs.io/company/coupang/) | N/A | Seoul, South Korea |
-| 11/26/2024 | [Software Engineer - India](https://algojobs.io/jobs/2295908) | [JumpCloud](https://algojobs.io/company/jumpcloud/) | N/A | Hyderabad, India - Remote |
 | 11/26/2024 | [Software Engineer 2, Data Lake Engineering](https://algojobs.io/jobs/2284185) | [WEX](https://algojobs.io/company/wexinc/) | N/A | Brazil - Remote |
 | 11/26/2024 | [Staff Software Engineer](https://algojobs.io/jobs/2284862) | [GEICO](https://algojobs.io/company/geico/) | $115K - $230K | Chevy Chase, MD, United States of America |
 | 11/26/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2284872) | [GEICO](https://algojobs.io/company/geico/) | $90K - $215K | Chevy Chase, MD, United States of America |
@@ -199,6 +226,7 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/25/2024 | [Senior Software Engineer - Internal Service Platform (Lisbon)](https://algojobs.io/jobs/2272793) | [Datadog](https://algojobs.io/company/datadog/) | N/A | Lisbon, Portugal |
 | 11/25/2024 | [Backend Software Engineer](https://algojobs.io/jobs/2272844) | [SumUp](https://algojobs.io/company/sumup/) | N/A | Berlin, Germany |
 | 11/25/2024 | [Software Engineer III (Golang, VoIP, AWS)](https://algojobs.io/jobs/2273093) | [Vonage](https://algojobs.io/company/vonage/) | N/A | Bengaluru |
+| 11/25/2024 | [Software Engineer Co-Op (January 2025 - May 2025)](https://algojobs.io/jobs/2273654) | [LiveRamp](https://algojobs.io/company/liveramp/) | N/A | San Francisco, United States of America |
 | 11/25/2024 | [Software Engineer, Data Lake Engineering](https://algojobs.io/jobs/2284193) | [WEX](https://algojobs.io/company/wexinc/) | N/A | Brazil - Remote |
 | 11/25/2024 | [Software Development Engineer, Turbonomic](https://algojobs.io/jobs/2278380) | [Stackwatch](https://algojobs.io/company/kubecost/) | $121K - $182K | San Francisco/San Jose, California (Hybrid) |
 | 11/25/2024 | [Senior Software Engineer - Payouts Intergration](https://algojobs.io/jobs/2272055) | [dLocal](https://algojobs.io/company/dlocal/) | N/A | Madrid (Remote) / Montevideo (Remote) / Spain / ... |
@@ -213,11 +241,12 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/22/2024 | [Senior Software Engineer - Engineering Platform](https://algojobs.io/jobs/2264191) | [GoTo Group](https://algojobs.io/company/gotogroup/) | N/A | Bengaluru / Gurugram |
 | 11/22/2024 | [Lead Software Engineer - Cartography](https://algojobs.io/jobs/2264193) | [GoTo Group](https://algojobs.io/company/gotogroup/) | N/A | Singapore |
 | 11/22/2024 | [Staff Software Engineer](https://algojobs.io/jobs/2269660) | [PayPal](https://algojobs.io/company/paypal/) | $84K - $204K | San Jose, California, United States of America |
+| 11/22/2024 | [Senior Backend Software Engineer - Machine ID - United Kingdom](https://algojobs.io/jobs/2264269) | [Teleport](https://algojobs.io/company/teleport/) | N/A | United Kingdom (Remote) |
+| 11/22/2024 | [Development Tools Software Engineer](https://algojobs.io/jobs/2259100) | [Intel](https://algojobs.io/company/intel/) | N/A | Malaysia, Penang |
 | 11/21/2024 | [Software Security Engineer](https://algojobs.io/jobs/2255944) | [Applied Intuition](https://algojobs.io/company/appliedintuition/) | $125K - $222K | Mountain View, California, United States |
 | 11/21/2024 | [Staff Software Engineer](https://algojobs.io/jobs/2257584) | [PlayStation Global](https://algojobs.io/company/sonyinteractiveentertainmentglobal/) | $192K - $288K | United States, San Diego, CA |
 | 11/21/2024 | [Senior Software Engineer, Mobile BLE Platform](https://algojobs.io/jobs/2257467) | [Samsara](https://algojobs.io/company/samsara/) | $133K - $172K | Canada - Remote |
 | 11/21/2024 | [Senior Software Engineer, Mobile BLE Platform](https://algojobs.io/jobs/2257464) | [Samsara](https://algojobs.io/company/samsara/) | $142K - $215K | US (Remote) |
-| 11/21/2024 | [Software Development Engineer - Commerce](https://algojobs.io/jobs/2257018) | [Twitch](https://algojobs.io/company/twitch/) | $99K - $200K | Seattle, WA |
 | 11/21/2024 | [Senior Software Engineer - Data](https://algojobs.io/jobs/2246339) | [Mux](https://algojobs.io/company/mux/) | $175K - $220K | San Francisco, CA, United States (or US Remote) |
 | 11/21/2024 | [Software Engineer](https://algojobs.io/jobs/2252641) | [7853 Vmware Canada ULC](https://algojobs.io/company/broadcom/) | N/A | BGR-Sofia-Garitage Park - Bldg 2, Bulgaria |
 | 11/21/2024 | [Software Engineer I , Affiliate (Backend)](https://algojobs.io/jobs/2254657) | [tiket.com](https://algojobs.io/company/tiket/) | N/A | Jakarta (Hybrid) |
@@ -226,6 +255,7 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/21/2024 | [Staff Software Engineer, Security](https://algojobs.io/jobs/2260665) | [Salesforce](https://algojobs.io/company/salesforce/) | N/A | Illinois - Remote / Georgia - Atlanta |
 | 11/21/2024 | [Staff Software Engineer, Security](https://algojobs.io/jobs/2262154) | [Slack](https://algojobs.io/company/salesforce/) | N/A | Illinois - Remote / Georgia - Atlanta |
 | 11/21/2024 | [Machine Learning Software Engineer (HYPERCONNECT AI)](https://algojobs.io/jobs/2245663) | [Match Group](https://algojobs.io/company/matchgroup/) | N/A | Seoul (Hybrid) |
+| 11/21/2024 | [Senior GoLang Software Engineer (Remote)](https://algojobs.io/jobs/2262134) | [SailPoint](https://algojobs.io/company/sailpoint/) | N/A | Remote (Mexico) |
 | 11/20/2024 | [Staff Software Engineer, Trust (Access)](https://algojobs.io/jobs/2248443) | [Block](https://algojobs.io/company/block/) | $167K - $251K | Vancouver, British Columbia, Canada |
 | 11/20/2024 | [Staff Software Engineer, Trust (Identity)](https://algojobs.io/jobs/2248440) | [Block](https://algojobs.io/company/block/) | $198K - $297K | Portland, OR, United States of America |
 | 11/20/2024 | [Senior Software Engineer (Golang, SSO, Distributed Systems)](https://algojobs.io/jobs/2247017) | [Cohesity](https://algojobs.io/company/cohesity/) | $164K - $205K | San Jose, CA (HQ) |
@@ -242,13 +272,13 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/19/2024 | [Senior Software Engineer - Identity and Access (Remote, Canada)](https://algojobs.io/jobs/2239033) | [Grafana Labs](https://algojobs.io/company/grafanalabs/) | N/A | Canada (Remote) |
 | 11/19/2024 | [Lead Software Development Engineer](https://algojobs.io/jobs/2227865) | [Razorpay Software Private Limited](https://algojobs.io/company/razorpaysoftwareprivatelimited/) | N/A | Bangalore |
 | 11/19/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2228517) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $180K - $212K | USA (Remote) |
-| 11/19/2024 | [Software Engineering LMTS- Backend , Argo Rollouts](https://algojobs.io/jobs/2242102) | [Salesforce](https://algojobs.io/company/salesforce/) | N/A | India - Bangalore |
 | 11/19/2024 | [Senior Software Engineer - Ai](https://algojobs.io/jobs/2236729) | [Wasabi Technologies](https://algojobs.io/company/wasabi/) | N/A | Boston, MA (Remote) |
 | 11/19/2024 | [Senior Software Engineer - CI Team](https://algojobs.io/jobs/2240082) | [Snowflake](https://algojobs.io/company/snowflake/) | N/A | PL-Warsaw |
 | 11/19/2024 | [Senior Software Engineer - Backend - Fleet](https://algojobs.io/jobs/2237025) | [Fairmatic](https://algojobs.io/company/fairmatic/) | N/A | Bangalore (Hybrid) |
 | 11/19/2024 | [Senior Software Engineer, Platform Engineering](https://algojobs.io/jobs/2227244) | [Recurly](https://algojobs.io/company/recurly/) | N/A | Medellin (Hybrid) |
 | 11/19/2024 | [Sr Software Systems Engineer- Cloud Networking](https://algojobs.io/jobs/2226864) | [Extreme Networks](https://algojobs.io/company/extremenetworks/) | N/A | India / Chennai, India (Hybrid) |
 | 11/19/2024 | [Staff Software Systems Engineer-Technical Lead- Cloud Networking](https://algojobs.io/jobs/2226871) | [Extreme Networks](https://algojobs.io/company/extremenetworks/) | N/A | India / Chennai, India (Hybrid) |
+| 11/19/2024 | [Lead Product Software Engineer Codabox](https://algojobs.io/jobs/2241960) | [Wolters Kluwer](https://algojobs.io/company/wk/) | N/A | BEL - Leuven, Belgium |
 | 11/18/2024 | [Software Engineer - Scanning Engine](https://algojobs.io/jobs/2227612) | [Coalition, Inc.](https://algojobs.io/company/coalition/) | N/A | Any location, Canada |
 | 11/18/2024 | [Software Engineer - Scanning Engine](https://algojobs.io/jobs/2227613) | [Coalition, Inc.](https://algojobs.io/company/coalition/) | N/A | Any location, United States |
 | 11/18/2024 | [Senior Software Engineer (Turkey)](https://algojobs.io/jobs/2229173) | [Sezzle](https://algojobs.io/company/sezzle/) | $4K - $8K | Türkiye, Remote |
@@ -278,7 +308,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/14/2024 | [Senior Software Engineer - Entitlements](https://algojobs.io/jobs/2204185) | [Tanium](https://algojobs.io/company/tanium/) | $120K - $260K | Addison, TX (Hybrid) |
 | 11/14/2024 | [Senior Software Engineer - Entitlements](https://algojobs.io/jobs/2204183) | [Tanium](https://algojobs.io/company/tanium/) | $120K - $260K | Durham, NC (Hybrid) |
 | 11/14/2024 | [Staff Software Engineer](https://algojobs.io/jobs/2204171) | [Tenable, Inc.](https://algojobs.io/company/tenableinc/) | $151K - $201K | US - Headquarters - Maryland - Columbia, US - Remote - California - Bay Area, US - Remote - California , US - Remote - Massachusetts |
-| 11/14/2024 | [Software Engineer](https://algojobs.io/jobs/2204170) | [Tenable, Inc.](https://algojobs.io/company/tenableinc/) | $106K - $141K | US - Headquarters - Maryland - Columbia, US - Remote - California - Bay Area, US - Remote - California , US - Remote - Massachusetts |
 | 11/14/2024 | [Software Dev Senior Engineer- Typescript and Electron exp is a must](https://algojobs.io/jobs/2202739) | [SonicWall](https://algojobs.io/company/sonicwall/) | N/A | Remote, Costa Rica |
 | 11/14/2024 | [Software Dev Senior Engineer- Electron and Typescript experience is a must](https://algojobs.io/jobs/2202741) | [SonicWall](https://algojobs.io/company/sonicwall/) | N/A | Remote,United States |
 | 11/14/2024 | [Senior Software Engineer, Authentication](https://algojobs.io/jobs/2222049) | [ngrok Inc.](https://algojobs.io/company/ngrokinc/) | $172K - $215K | United States |
@@ -309,6 +338,7 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/12/2024 | [Principal Software Engineer](https://algojobs.io/jobs/2188361) | [Fidelity](https://algojobs.io/company/fmr/) | N/A | Boston, MA / Westlake, TX / Salt Lake City, UT |
 | 11/12/2024 | [Cleared Software Engineer, Federal](https://algojobs.io/jobs/2182221) | [CCRi](https://algojobs.io/company/ccri/) | $120K - $140K | Charlottesville, Virginia, United States |
 | 11/12/2024 | [Senior Platform Software Engineer - India](https://algojobs.io/jobs/2254703) | [JumpCloud](https://algojobs.io/company/jumpcloud/) | N/A | Bangalore, India - Remote / Mumbai, India - Remote / Delhi, India - Remote / ... |
+| 11/12/2024 | [Senior C/C++ Software Engineer](https://algojobs.io/jobs/2187475) | [Motorola Solutions](https://algojobs.io/company/motorolasolutions/) | N/A | Krakow, Poland |
 | 11/11/2024 | [Software Engineer (Golang)](https://algojobs.io/jobs/2176223) | [Salesloft](https://algojobs.io/company/salesloft/) | N/A | Warsaw, Poland |
 | 11/11/2024 | [Senior Software Engineer, Runtime Configuration](https://algojobs.io/jobs/2176892) | [Roblox](https://algojobs.io/company/roblox/) | $189K - $233K | San Mateo, CA, United States |
 | 11/11/2024 | [Software Engineer - Security Apps](https://algojobs.io/jobs/2176916) | [Rubrik Job Board](https://algojobs.io/company/rubrik/) | $148K - $222K | Palo Alto, CA |
@@ -352,7 +382,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/05/2024 | [Software Engineer R&D](https://algojobs.io/jobs/2142280) | [8413 LSI Corporation](https://algojobs.io/company/broadcom/) | N/A | BGR-Sofia-Garitage Park - Bldg 2, Bulgaria |
 | 11/05/2024 | [Staff Software Engineer – Golang](https://algojobs.io/jobs/2138154) | [CloudWalk](https://algojobs.io/company/cloudwalk/) | N/A | São Paulo (Remote) |
 | 11/05/2024 | [Senior Software Engineer (Go)](https://algojobs.io/jobs/2165151) | [airSlate](https://algojobs.io/company/airslate/) | N/A | Kyiv, Ukraine / Wroclaw, Poland (Hybrid) |
-| 11/05/2024 | [Senior Software Engineer (Java/Python/Go) - Delphix](https://algojobs.io/jobs/2138864) | [Perforce](https://algojobs.io/company/perforce/) | N/A | Pune, Maharashtra (Hybrid) |
 | 11/05/2024 | [Senior Software Engineer ( UI ) - Puppet](https://algojobs.io/jobs/2138867) | [Perforce](https://algojobs.io/company/perforce/) | N/A | Pune, Maharashtra (Hybrid) |
 | 11/04/2024 | [Software Engineer, Search & Retrieval](https://algojobs.io/jobs/2131311) | [Topsort](https://algojobs.io/company/topsort/) | N/A | São Paulo, São Paulo, Brazil |
 | 11/04/2024 | [Software Engineer, Search & Retrieval](https://algojobs.io/jobs/2131312) | [Topsort](https://algojobs.io/company/topsort/) | N/A | Santiago, Santiago Metropolitan Region, Chile |
@@ -382,21 +411,21 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/02/2024 | [Software Engineer, Infrastructure - Platform (Datastores)](https://algojobs.io/jobs/2120838) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $149K - $149K | Remote - Canada |
 | 11/01/2024 | [Software Engineer I (Remote Eligible in Bulgaria)](https://algojobs.io/jobs/2121466) | [Smartsheet](https://algojobs.io/company/smartsheet/) | N/A | -REMOTE, BULGARIA- |
 | 11/01/2024 | [Software Engineer II (Remote Eligible in Bulgaria)](https://algojobs.io/jobs/2121459) | [Smartsheet](https://algojobs.io/company/smartsheet/) | N/A | -REMOTE, BULGARIA- |
-| 11/01/2024 | [Software Engineer](https://algojobs.io/jobs/2121119) | [Thunes](https://algojobs.io/company/thunes/) | N/A | Shanghai Shi, China |
 | 11/01/2024 | [Staff Software Engineer (Platform, Reliability, Golang)](https://algojobs.io/jobs/2452149) | [Applied Systems, Inc.](https://algojobs.io/company/appliedsystems/) | N/A | California |
 | 11/01/2024 | [Software Engineer, Full Stack, 7+ Years of Experience](https://algojobs.io/jobs/2124823) | [Snap](https://algojobs.io/company/snapchat/) | $202K - $303K | Palo Alto - 395 Page Mill Rd / Los Angeles, California / Bellevue - 110 110th Ave NE / ... |
+| 11/01/2024 | [Senior Software Engineer, AI Security Engineering](https://algojobs.io/jobs/2127045) | [NVIDIA](https://algojobs.io/company/nvidia/) | N/A | US, TX, Austin / US, WA, Redmond / US, CA, Santa Clara / ... (Remote) |
 | 10/31/2024 | [Senior Software Engineer, Mission System](https://algojobs.io/jobs/2112923) | [Anduril Industries](https://algojobs.io/company/andurilindustries/) | $168K - $252K | Quincy, Massachusetts, United States |
 | 10/31/2024 | [Senior Software Engineer, Mission System](https://algojobs.io/jobs/2112921) | [Anduril Industries](https://algojobs.io/company/andurilindustries/) | $168K - $252K | Boston, Massachusetts, United States |
 | 10/31/2024 | [Senior Software Engineer, Vehicle Integrations](https://algojobs.io/jobs/2112928) | [Anduril Industries](https://algojobs.io/company/andurilindustries/) | $160K - $250K | Costa Mesa, California, United States |
 | 10/31/2024 | [Staff Software Engineer, Science](https://algojobs.io/jobs/2111099) | [Chan Zuckerberg Initiative](https://algojobs.io/company/chanzuckerberginitiative/) | $214K - $321K | Redwood City, CA (Open to Flex) |
 | 10/31/2024 | [Senior Software Engineer, Privacy](https://algojobs.io/jobs/2112755) | [Instacart](https://algojobs.io/company/instacart/) | $162K - $180K | Canada - Remote (BC, AB or ON only) |
 | 10/31/2024 | [Lead Software Engineer](https://algojobs.io/jobs/2111180) | [Applied Intuition](https://algojobs.io/company/appliedintuition/) | N/A | München, Bavaria, Germany |
-| 10/31/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2111701) | [Entersekt](https://algojobs.io/company/entersekt/) | N/A | Fully Remote, South Africa |
 | 10/31/2024 | [Senior Software Engineer, Service Resiliency](https://algojobs.io/jobs/2115226) | [Genesys](https://algojobs.io/company/genesys/) | N/A | Budapest (Flexible), Hungary |
 | 10/31/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2138751) | [Sysdig](https://algojobs.io/company/sysdig/) | N/A | Flexible - Italy (Hybrid) |
 | 10/31/2024 | [Parallel Works - Software Engineer Team Lead](https://algojobs.io/jobs/2108995) | [1871 Member Company](https://algojobs.io/company/1871/) | N/A | United States (Remote) |
 | 10/30/2024 | [Staff Software Engineer, Bridge](https://algojobs.io/jobs/2102254) | [Ava Labs](https://algojobs.io/company/avalabs/) | $190K - $238K | New York, NY |
 | 10/30/2024 | [Staff Software Engineer, Platform](https://algojobs.io/jobs/2103779) | [Amplitude ](https://algojobs.io/company/amplitude/) | N/A | San Francisco, CA |
+| 10/30/2024 | [Sr Staff Software Engineer, Platform](https://algojobs.io/jobs/2103781) | [Amplitude ](https://algojobs.io/company/amplitude/) | N/A | San Francisco, CA |
 | 10/30/2024 | [Senior Software Engineer, Production Engineering](https://algojobs.io/jobs/2103395) | [Liftoff](https://algojobs.io/company/liftoff/) | N/A | Singapore |
 | 10/30/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2102955) | [Aviatrix](https://algojobs.io/company/aviatrix/) | N/A | Bengaluru, Karnataka, India |
 | 10/30/2024 | [Senior Software Development Engineer - Billing & Revenue](https://algojobs.io/jobs/2103587) | [GoCardless](https://algojobs.io/company/gocardless/) | N/A | London, UK |
@@ -408,10 +437,10 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 10/30/2024 | [Staff Software Engineer, Data - Level 4](https://algojobs.io/jobs/2107547) | [WEX](https://algojobs.io/company/wexinc/) | $134K - $178K | Bay Area, CA / Boston, MA / Chicago, IL / ... (Remote) |
 | 10/30/2024 | [Principal Software Engineer – DNS Protection, Network Security Group](https://algojobs.io/jobs/2102165) | [Sophos](https://algojobs.io/company/sophos/) | N/A | Ireland (Remote) |
 | 10/30/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2101293) | [ESG Book](https://algojobs.io/company/esg-book/) | N/A | Frankfurt, Hessen, Germany (Hybrid) |
+| 10/30/2024 | [Senior Staff Software Engineer - Level 5](https://algojobs.io/jobs/2107545) | [WEX](https://algojobs.io/company/wexinc/) | $156K - $208K | Boston, MA / Bay Area, CA / Portland, ME / ... |
 | 10/29/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2092305) | [Harness ](https://algojobs.io/company/harnessinc/) | N/A | Bengaluru, Karnataka, India |
 | 10/29/2024 | [Senior Software Engineer - Backend (Access Intelligence)](https://algojobs.io/jobs/2094295) | [Veza Technologies, Inc. ](https://algojobs.io/company/veza/) | N/A | Remote, Slovenia |
 | 10/29/2024 | [Software Engineer II, Application SRE](https://algojobs.io/jobs/2092944) | [Circles.Life](https://algojobs.io/company/circleslife/) | N/A | Bangalore |
-| 10/29/2024 | [Staff Software Engineer](https://algojobs.io/jobs/2082889) | [Harness ](https://algojobs.io/company/harnessinc/) | $200K - $215K | San Francisco, California, United States |
 | 10/29/2024 | [Software Engineer II - Golang and TypeScript](https://algojobs.io/jobs/2105374) | [NCR](https://algojobs.io/company/ncr/) | N/A | HYDERABAD, IND, India |
 | 10/29/2024 | [Backend Software Engineer](https://algojobs.io/jobs/2094835) | [Voldex Games](https://algojobs.io/company/voldex/) | N/A | Remote - Canada |
 | 10/29/2024 | [Staff Software Engineer, IAM (Golang)](https://algojobs.io/jobs/2091809) | [Outreach](https://algojobs.io/company/outreach/) | $165K - $225K | United States (Remote) |
@@ -421,7 +450,7 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 10/28/2024 | [Software Engineer II, Backend - Integrated Solutions](https://algojobs.io/jobs/2084414) | [Teachable](https://algojobs.io/company/teachablecareers/) | N/A | Remote (São Paulo, SP, Brazil)  |
 | 10/28/2024 | [Software Engineer II, Backend - Integrated Solutions](https://algojobs.io/jobs/2084406) | [Teachable](https://algojobs.io/company/teachablecareers/) | N/A | Remote (Belo Horizonte, Brazil) |
 | 10/28/2024 | [Senior Software Engineer (GoLang)](https://algojobs.io/jobs/2221692) | [Bash.com](https://algojobs.io/company/bashdotcom/) | N/A | Cape Town |
-| 10/28/2024 | [Software Engineer](https://algojobs.io/jobs/2084824) | [PlayStation Global](https://algojobs.io/company/sonyinteractiveentertainmentglobal/) | N/A | Germany, Berlin |
+| 10/28/2024 | [Senior Staff Software Engineer, Decentralised Systems (m/f/d)](https://algojobs.io/jobs/2084189) | [Affinidi](https://algojobs.io/company/affinidi/) | N/A | Berlin, Germany |
 | 10/28/2024 | [Software Engineer - Lead Build Engineer](https://algojobs.io/jobs/2087945) | [X (Twitter)](https://algojobs.io/company/twitter/) | $127K - $297K | Seattle, WA / Palo Alto, CA / San Jose, CA |
 | 10/28/2024 | [Principal Software Engineer - Clojure](https://algojobs.io/jobs/2089241) | [Comcast](https://algojobs.io/company/comcast/) | N/A | PA - Philadelphia, 1800 Arch St, United States of America |
 | 10/28/2024 | [Backend Software Engineer](https://algojobs.io/jobs/2081211) | [PolyAI](https://algojobs.io/company/poly-ai/) | N/A | London, England, United Kingdom (Hybrid) |
@@ -429,6 +458,8 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 10/25/2024 | [Software Engineer, Search](https://algojobs.io/jobs/2075310) | [Dialpad](https://algojobs.io/company/dialpad/) | N/A | Buenos Aires, Argentina |
 | 10/25/2024 | [Software Engineer](https://algojobs.io/jobs/2075774) | [Stripe](https://algojobs.io/company/stripe/) | N/A | Bucharest, Romania  |
 | 10/25/2024 | [Software Engineer II, Platform ( Backend )](https://algojobs.io/jobs/2072887) | [tiket.com](https://algojobs.io/company/tiket/) | N/A | Jakarta (Hybrid) |
+| 10/25/2024 | [Senior Staff Software Engineer (Backend - Golang)](https://algojobs.io/jobs/2065069) | [Outreach](https://algojobs.io/company/outreach/) | N/A | Hyderabad (Remote) |
+| 10/25/2024 | [Sr Engineer, Software](https://algojobs.io/jobs/2070561) | [F5](https://algojobs.io/company/ffive/) | N/A | Hyderabad (SEZ), India |
 | 10/24/2024 | [Backend Software Engineer (Starlink)](https://algojobs.io/jobs/2067573) | [SpaceX](https://algojobs.io/company/spacex/) | $120K - $145K | Redmond, WA |
 | 10/24/2024 | [Senior Software Engineer Specialist \| BASE](https://algojobs.io/jobs/2066886) | [Wellhub](https://algojobs.io/company/gympass/) | N/A | Portugal (Remote) |
 | 10/24/2024 | [Software Engineer, Trust (Access)](https://algojobs.io/jobs/2067715) | [Block](https://algojobs.io/company/block/) | $114K - $171K | Vancouver, British Columbia, Canada |
@@ -443,6 +474,8 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 10/24/2024 | [Backend Software Engineer](https://algojobs.io/jobs/2064793) | [Xsolla](https://algojobs.io/company/xsolla/) | N/A | Azerbaijan |
 | 10/24/2024 | [Systems Software Engineer](https://algojobs.io/jobs/2064387) | [Partner One Capital](https://algojobs.io/company/partner-one-capital/) | N/A | Brazil (Remote) |
 | 10/24/2024 | [Systems Software Engineer](https://algojobs.io/jobs/2064388) | [Partner One Capital](https://algojobs.io/company/partner-one-capital/) | N/A | Colombia (Remote) |
+| 10/24/2024 | [Senior GoLang Software Engineer (REMOTE)](https://algojobs.io/jobs/2069069) | [SailPoint](https://algojobs.io/company/sailpoint/) | N/A | Remote (Mexico City, MX) |
+| 10/24/2024 | [Full Stack Software Engineer](https://algojobs.io/jobs/2070022) | [Radiance](https://algojobs.io/company/radiancetech/) | N/A | Beavercreek, OH, United States of America |
 | 10/23/2024 | [Software Engineer, Distributed Systems](https://algojobs.io/jobs/2058082) | [Censys](https://algojobs.io/company/censys/) | $125K - $150K | Ann Arbor, MI or Kirkland, WA or Los Altos, CA or Tysons, VA |
 | 10/23/2024 | [Senior Software Engineer, Streaming Attribution](https://algojobs.io/jobs/2058087) | [Censys](https://algojobs.io/company/censys/) | $170K - $205K | Ann Arbor, MI or Kirkland, WA or Los Altos, CA or Tysons, VA |
 | 10/23/2024 | [Senior Software Engineer, Analytics Team](https://algojobs.io/jobs/2057255) | [OneSignal](https://algojobs.io/company/onesignal/) | $160K - $180K | United States (Remote) |
@@ -464,7 +497,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 10/22/2024 | [Senior Software Engineer (Helix Core Integrations)](https://algojobs.io/jobs/2046357) | [Perforce](https://algojobs.io/company/perforce/) | N/A | Pune, Maharashtra (Hybrid) |
 | 10/21/2024 | [Software Engineer - Backend](https://algojobs.io/jobs/2037952) | [Automox](https://algojobs.io/company/automox/) | $90K - $140K | Austin, TX - Denver, CO - Tampa, FL |
 | 10/21/2024 | [Software Engineer III](https://algojobs.io/jobs/2037328) | [10x Genomics](https://algojobs.io/company/10xgenomics/) | $130K - $208K | Pleasanton, California, USA HQ |
-| 10/21/2024 | [Principal Software Engineer - Platform](https://algojobs.io/jobs/2036602) | [Harness ](https://algojobs.io/company/harnessinc/) | $220K - $250K | Mountain View, California, United States |
 | 10/21/2024 | [Senior Software Engineer (Security Implementation)](https://algojobs.io/jobs/2038241) | [FalconX](https://algojobs.io/company/falconx/) | N/A | Bangalore, Karnataka, India |
 | 10/21/2024 | [Software Engineer](https://algojobs.io/jobs/2039651) | [Runa](https://algojobs.io/company/runa/) | N/A | Runa London |
 | 10/21/2024 | [Software Engineer - Platform](https://algojobs.io/jobs/2036056) | [Nielsen](https://algojobs.io/company/nielsen/) | N/A | Gurgaon, HR, India (Hybrid) |
@@ -474,35 +506,3 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 10/21/2024 | [Sr Software Systems Engineer- Cloud Networking](https://algojobs.io/jobs/2031228) | [Extreme Networks](https://algojobs.io/company/extremenetworks/) | N/A | India / Chennai, India / Bangalore, India (Hybrid) |
 | 10/21/2024 | [Staff Software Systems Engineer-Technical Lead- Cloud Networking](https://algojobs.io/jobs/2031233) | [Extreme Networks](https://algojobs.io/company/extremenetworks/) | N/A | India / Chennai, India / Bangalore, India (Hybrid) |
 | 10/21/2024 | [Mid-Senior Software Engineer (.NET)](https://algojobs.io/jobs/2035803) | [Nord Security](https://algojobs.io/company/nordsec/) | N/A | Vilnius (Hybrid) |
-| 10/18/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2027341) | [Circles.Life](https://algojobs.io/company/circleslife/) | N/A | India  |
-| 10/18/2024 | [Software Engineering Technical Referent (Goloang)](https://algojobs.io/jobs/2025889) | [dLocal](https://algojobs.io/company/dlocal/) | N/A | Madrid (Remote) / Barcelona (Remote) / Spain / ... |
-| 10/18/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2025808) | [AppZen, Inc. ](https://algojobs.io/company/appzen/) | N/A | Pune (Hybrid) |
-| 10/18/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2026413) | [Sysdig](https://algojobs.io/company/sysdig/) | N/A | Tel Aviv / Flexible - Serbia / Flexible - Italy / ... (Hybrid) |
-| 10/18/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2030849) | [NVIDIA](https://algojobs.io/company/nvidia/) | N/A | India, Pune |
-| 10/17/2024 | [Senior Software Engineer, Platform](https://algojobs.io/jobs/2016916) | [LTK USA](https://algojobs.io/company/shopltk/) | N/A | United States |
-| 10/17/2024 | [Senior Software Engineer, AWS, Cloud](https://algojobs.io/jobs/2019134) | [Element Biosciences](https://algojobs.io/company/elementbiosciences/) | $127K - $167K | San Diego - Headquarters |
-| 10/17/2024 | [Senior Software Engineer Testing - Mobile](https://algojobs.io/jobs/2008420) | [Couchbase, Inc.](https://algojobs.io/company/couchbaseinc/) | N/A | Bangalore, India |
-| 10/17/2024 | [Staff Software Engineer, Backend](https://algojobs.io/jobs/2010257) | [Cadence Solutions](https://algojobs.io/company/cadencesolutions/) | $200K - $265K | Remote |
-| 10/17/2024 | [Software Engineer - Identity and Access Management](https://algojobs.io/jobs/2016246) | [Palantir Technologies](https://algojobs.io/company/palantir/) | N/A | London, United Kingdom (Hybrid) |
-| 10/17/2024 | [Software Engineer II, Fleet Management](https://algojobs.io/jobs/2020059) | [Chainalysis](https://algojobs.io/company/chainalysis-careers/) | N/A | United Kingdom |
-| 10/17/2024 | [Software Engineer - CharlotteAI (Remote)](https://algojobs.io/jobs/2023205) | [CrowdStrike](https://algojobs.io/company/crowdstrike/) | N/A | Italy - Remote / Ireland - Remote / France - Remote / ... |
-| 10/16/2024 | [Staff Software Engineer, Full-Stack - 2XKO](https://algojobs.io/jobs/2009124) | [Riot Games](https://algojobs.io/company/riotgames/) | N/A | Los Angeles, USA |
-| 10/16/2024 | [Staff Software Engineer, MGS - 2XKO](https://algojobs.io/jobs/2009125) | [Riot Games](https://algojobs.io/company/riotgames/) | N/A | Los Angeles, USA |
-| 10/16/2024 | [Software Engineer MDM](https://algojobs.io/jobs/2009505) | [Tanium](https://algojobs.io/company/tanium/) | $95K - $290K | Durham, NC (Hybrid) |
-| 10/16/2024 | [Staff Software Engineer, Publica](https://algojobs.io/jobs/2008925) | [Integral Ad Science](https://algojobs.io/company/integraladscience/) | N/A | London, UK |
-| 10/16/2024 | [Cloud Software Engineer](https://algojobs.io/jobs/2009600) | [Graphcore](https://algojobs.io/company/graphcore/) | N/A | Bristol, UK |
-| 10/16/2024 | [Software Engineer](https://algojobs.io/jobs/2011222) | [8224 Avago Technologies Wireless (U.S.A.) Manufacturing LLC](https://algojobs.io/company/broadcom/) | $141K - $225K | USA-CA - Promontory C, United States of America |
-| 10/16/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2011214) | [WP Engine](https://algojobs.io/company/wpengine/) | N/A | WFH - Ireland / Limerick |
-| 10/16/2024 | [Senior Software Engineer, Server - Production Technology](https://algojobs.io/jobs/2011771) | [Blizzard Entertainment](https://algojobs.io/company/activision/) | $101K - $186K | Irvine - Blizzard - Blizzard Way, United States of America |
-| 10/16/2024 | [Frontend Software Engineering Intern - 2025 Summer Intern](https://algojobs.io/jobs/2007607) | [Shield AI](https://algojobs.io/company/shieldai/) | $41 - $57 | San Diego Metro Area |
-| 10/15/2024 | [Senior Software Engineer II (Kubernetes)](https://algojobs.io/jobs/1999428) | [DigitalOcean](https://algojobs.io/company/digitalocean98/) | $180K - $250K | Austin |
-| 10/15/2024 | [Senior Software Engineer II (Kubernetes)](https://algojobs.io/jobs/1999424) | [DigitalOcean](https://algojobs.io/company/digitalocean98/) | $180K - $250K | Boston |
-| 10/15/2024 | [Senior Software Engineer](https://algojobs.io/jobs/1999422) | [DigitalOcean](https://algojobs.io/company/digitalocean98/) | N/A | Pakistan |
-| 10/15/2024 | [Software Engineer II - Back](https://algojobs.io/jobs/2000073) | [isaac](https://algojobs.io/company/isaac/) | N/A | Remoto |
-| 10/15/2024 | [Backend Software Engineer, Golang/Python](https://algojobs.io/jobs/1989964) | [Exness jobs for internal candidates](https://algojobs.io/company/internalhiring/) | N/A | Cyprus |
-| 10/15/2024 | [Software Engineering Simulation Intern - 2025 Summer Intern](https://algojobs.io/jobs/1997511) | [Shield AI](https://algojobs.io/company/shieldai/) | $41 - $57 | San Diego Metro Area |
-| 10/15/2024 | [Senior Software Engineer, Flight ( Backend )](https://algojobs.io/jobs/1997556) | [tiket.com](https://algojobs.io/company/tiket/) | N/A | Jakarta (Hybrid) |
-| 10/15/2024 | [Senior Software Engineer – Front End](https://algojobs.io/jobs/2004974) | [GEICO](https://algojobs.io/company/geico/) | $85K - $215K | Austin, TX / Richardson, TX / Boulder, CO / ... |
-| 10/15/2024 | [Full Stack Software Engineer](https://algojobs.io/jobs/1988932) | [CX2](https://algojobs.io/company/cx2/) | $120K - $160K | Palo Alto, CA |
-| 10/15/2024 | [Staff Security Software Engineer](https://algojobs.io/jobs/1997543) | [Lime](https://algojobs.io/company/lime/) | $126K - $231K | United States (Remote) |
-| 10/14/2024 | [Software Engineer, Starlink Enterprise & Aviation](https://algojobs.io/jobs/1991664) | [SpaceX](https://algojobs.io/company/spacex/) | $120K - $145K | Redmond, WA |
